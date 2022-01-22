@@ -1,0 +1,6 @@
+export { default as AlignHorizontalCenter } from './HorizontalCenter'
+export { default as AlignHorizontalLeft } from './HorizontalLeft'
+export { default as AlignHorizontalRight } from './HorizontalRight'
+export { default as AlignVerticalBottom } from './VerticalBottom'
+export { default as AlignVerticalCenter } from './VerticalCenter'
+export { default as AlignVerticalTop } from './VerticalTop'
